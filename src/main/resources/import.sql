@@ -1,0 +1,2 @@
+INSERT INTO category (name, description) values ('samochodowe', 'opis ogloszenia samochodowe'),('ogrodnictwo', 'opis ogloszenia ogrodnictwo');
+INSERT INTO offer (title, description, img_url, price, category_id) values ('skoda Fabia', 'samochod igielka', 'path do obrazka', 3600, 1), ('Mercedes Benz', 'najpiekniejszy samochod', 'obrazek samochodu', 26300, 1), ('Kwiaty', 'roze, stokrotki', 'opis do kwiatkow', 34, 2);
